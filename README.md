@@ -8,10 +8,10 @@
 * 自动解锁 Apple ID 账号
 * 自动关闭 Apple ID 双重验证
 * 自动修改 Apple ID 账号密码
+* html一键分享  
 * 自动删除 Apple ID 多余设备(开发中)
 * 账号 Telegram 通知 (开发中)
 * 相关 api 接口  (开发中)
-* html一键分享  (开发中)
 * 自定义html内容 （开发中）
 
 ### 使用教程 （下面二选一即可）
