@@ -44,3 +44,11 @@ phpMyAdmin 4.9
 * 上传数据库（教程完善中...
 * 配置文件（教程完善中...
 
+### 常见问题
+* 【问1】为什么不能删除绑定手机/二次验证
+* 【答1】必须要有 ```donnot recognize this number?```（不认识这个号码吗？）提示才可以删除。参考下面两个图片，自行对比。目前我们会提示```此账号无法通过密保删除手机二次验证，请更换账号```
+
+ [![AppleID_Unlock.png](https://github.com/shadowrocketHelp/appleidUnlock/blob/main/img/phone1.png?raw=true)]()
+ 
+ [![AppleID_Unlock.png](https://github.com/shadowrocketHelp/appleidUnlock/blob/main/img/phone2.png?raw=true)]()
+
