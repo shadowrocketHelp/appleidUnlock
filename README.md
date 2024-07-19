@@ -16,7 +16,7 @@
 
 ### 使用教程 （下面二选一即可）
 #### 【一】纯新手小白版本
-* 直接打开网站 [id1314.com](https://id1314.com) 注册即可使用 (注册码需加 [Telegarm 群](https://t.me/apidlock) 免费获取）
+* (注册码需加 [Telegarm 群](https://t.me/apidlock) 免费获取）
 
 #### 【二】自己服务器部署
 * 准备一台 Debian 11 服务器/VPS
